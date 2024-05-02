@@ -6,6 +6,8 @@
 2. Natural sounding voice for TTS
 3. VTuber model
 4. Deep Learning for visual processing
-5. Humanoid robot
-6. Add missile launchers (probably no)
-7. Self evolution AI
+5. Controlling UAVs
+6. Add a flamethrower
+7. Add missile launchers (okay probably no)
+8. Humanoid robot
+9. Self evolution AI
