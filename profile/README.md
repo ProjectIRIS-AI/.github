@@ -7,5 +7,5 @@
 3. VTuber model
 4. Deep Learning for visual processing
 5. Humanoid robot
-6. Add missles (probably no)
+6. Add missile launchers (probably no)
 7. Self evolution AI
