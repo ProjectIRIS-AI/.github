@@ -12,7 +12,7 @@ You can find the full text of the license [here](/LICENSE/).
 
 We welcome contributions! Please see the [CONTRIBUTING.md](/CONTRIBUTING.md/) for guidelines.
 
-# Acknowledgments
+# Acknowledgements
 
 We would like to extend our heartfelt thanks to everyone who has contributed to the development of our projects. Your support, feedback, and dedication have been invaluable in shaping **IRIS Technologies**.
 
